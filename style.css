@@ -1,0 +1,20 @@
+.card{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    border-radius: 10px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+}
+
+.a{
+    margin-top: 170px;
+    margin-left: 600px;
+    background-image: url(https://images.unsplash.com/photo-1683009426952-13567b4fa28b?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxMXx8fGVufDB8fHx8fA%3D%3D);
+
+}
+.card:{
+    transform: translateY(-10px);
+}
